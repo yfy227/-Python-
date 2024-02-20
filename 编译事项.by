@@ -1,0 +1,14 @@
+环境Python 3.11.6
+编译器版本g++ 17.0.6
+编译容器 ZeroTermux
+
+
+
+
+g++ /storage/emulated/0/专存路径/main.cpp -o main -I /data/data/com.termux/files/usr/include/python3.11 -L. -lpython3.11
+
+要提前CD到 /data/data/com.termux/files/usr/lib/
+
+目前来测试的后面有时间了更新
+
+by.你好
